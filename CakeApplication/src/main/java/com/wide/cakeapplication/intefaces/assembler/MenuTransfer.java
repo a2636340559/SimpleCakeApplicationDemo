@@ -17,7 +17,6 @@ public class MenuTransfer {
 
     public static MenuPO toMenuPO(MenuDTO menuDTO){
         return MenuPO.builder()
-                .id(Long.valueOf(menuDTO.getMenuId()))
                 .level(menuDTO.getMenuLevel())
                 .createUser(menuDTO.getCreateUser())
                 .name(menuDTO.getMenuName())
