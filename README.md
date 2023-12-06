@@ -19,4 +19,12 @@ besides that it support user and employee to view different menu and add or upda
 # description
 DTO:DTO is used as a layer of protection, which can shield possible data field modifications on the front end. Please take this
 
+# example
+
+![image](https://github.com/a2636340559/SimpleCakeApplicationDemo/assets/38580152/0d801b56-f352-483a-9b9c-e5e842b28fab)
+
+![image](https://github.com/a2636340559/SimpleCakeApplicationDemo/assets/38580152/6dca8dd3-3794-48cc-bfe8-9178072a24a2)
+
+
+
 
